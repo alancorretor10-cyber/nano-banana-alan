@@ -8,3 +8,7 @@
     envVars:
       - key: GEMINI_API_KEY
         sync: false
+      - key: IMAGE_MODEL
+        value: gemini-3.1-flash-image
+      - key: IMAGE_MODEL_PRO
+        value: gemini-3-pro-image
